@@ -1,0 +1,5 @@
+openai-whisper>=20230314
+imageio-ffmpeg>=0.4.7
+librosa>=0.9.2
+numpy>=1.20.0
+PyInstaller>=5.7.0
